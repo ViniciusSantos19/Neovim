@@ -6,6 +6,21 @@ Este repositório contém minha configuração pessoal do Neovim, incluindo uma 
 
 O [Neovim](https://neovim.io/) é uma evolução do popular editor de texto Vim, projetado para ser altamente configurável e extensível. Ele oferece uma ampla gama de recursos poderosos para edição de texto e programação. Uma das vantagens do Neovim é sua capacidade de integração com plugins que podem ser usados para personalizar e estender suas funcionalidades.
 
+## Requesitos
+
+Antes de usar esta configuração do Neovim, certifique-se de atender aos seguintes requisitos:
+
+- **Neovim**: Você deve ter o Neovim instalado em seu sistema. Você pode obtê-lo em [neovim.io](https://neovim.io/).
+
+- **Packer.nvim**: Este gerenciador de plugins é necessário para instalar e gerenciar os plugins nesta configuração. Certifique-se de tê-lo instalado. Você pode instalar o Packer.nvim executando o seguinte comando no Neovim:
+
+   ```vim
+   :PackerInstall
+
+   ** Node.js (LTS): O Neovim pode depender do Node.js para alguns plugins. Certifique-se de ter o Node.js LTS (versão de longo prazo) instalado em seu sistema. Você pode obtê-lo em nodejs.org.
+
+    Python 3.8 ou superior: Alguns plugins podem depender do Python 3.8 ou superior. Certifique-se de ter o Python instalado em seu sistema.
+
 ## Lista de Plugins
 
 Aqui estão alguns dos plugins que foram instalados nesta configuração do Neovim:
