@@ -1,0 +1,7 @@
+require('utilidades.treesitter')
+require('utilidades.blankline')
+require('utilidades.autopairs')
+require('utilidades.lualine')
+require('utilidades.nvimtree')
+require('utilidades.telescope')
+require('utilidades.lsp_config')
