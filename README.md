@@ -12,15 +12,17 @@ Antes de usar esta configuração do Neovim, certifique-se de atender aos seguin
 
 - **Neovim**: Você deve ter o Neovim instalado em seu sistema. Você pode obtê-lo em [neovim.io](https://neovim.io/).
 
+- **Node.js** (LTS): O Neovim pode depender do Node.js para alguns plugins. Certifique-se de ter o Node.js LTS (versão de longo prazo) instalado em seu sistema. Você pode obtê-lo em nodejs.org.
+
+- **Python** 3.8 ou superior: Alguns plugins podem depender do Python 3.8 ou superior. Certifique-se de ter o Python instalado em seu sistema.
+
 - **Packer.nvim**: Este gerenciador de plugins é necessário para instalar e gerenciar os plugins nesta configuração. Certifique-se de tê-lo instalado. Você pode instalar o Packer.nvim executando o seguinte comando no Neovim:
 
    ```vim
    :PackerInstall
    ```
 
-   -  **Node.js** (LTS): O Neovim pode depender do Node.js para alguns plugins. Certifique-se de ter o Node.js LTS (versão de longo prazo) instalado em seu sistema. Você pode obtê-lo em nodejs.org.
-
-   - **Python** 3.8 ou superior: Alguns plugins podem depender do Python 3.8 ou superior. Certifique-se de ter o Python instalado em seu sistema.
+  
 
 ## Lista de Plugins
 
