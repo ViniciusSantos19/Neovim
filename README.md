@@ -58,15 +58,6 @@ Aqui estão alguns dos plugins que foram instalados nesta configuração do Neov
 
 5. Explore e aproveite os recursos aprimorados oferecidos pelos plugins.
 
-## Contribuições
-
-Este é um projeto de configuração pessoal, mas fique à vontade para criar problemas (issues) ou contribuir com melhorias se desejar. Sua contribuição é bem-vinda!
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
----
 
 **Divirta-se editando com o Neovim e os plugins personalizados!**
 
