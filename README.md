@@ -6,7 +6,7 @@ Este repositório contém minha configuração pessoal do Neovim, incluindo uma 
 
 O [Neovim](https://neovim.io/) é uma evolução do popular editor de texto Vim, projetado para ser altamente configurável e extensível. Ele oferece uma ampla gama de recursos poderosos para edição de texto e programação. Uma das vantagens do Neovim é sua capacidade de integração com plugins que podem ser usados para personalizar e estender suas funcionalidades.
 
-## Requesitos
+## Requisitos
 
 Antes de usar esta configuração do Neovim, certifique-se de atender aos seguintes requisitos:
 
